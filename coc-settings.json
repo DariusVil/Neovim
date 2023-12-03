@@ -1,0 +1,14 @@
+{
+  "diagnostic.checkCurrentLine": true,
+  "languageserver": {
+    "swift": {
+      "command": "sourcekit-lsp",
+      "args": [],
+      "filetypes": ["swift"],
+      "initializationOptions": {},
+      "settings": {
+	      {
+      }
+    }
+  }
+}
